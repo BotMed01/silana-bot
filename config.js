@@ -15,16 +15,16 @@ global.owner = [
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
+ nomerbot: '212669138178',
+ pairingNumber: '212669138178',
  nameown: '𝐒𝐇𝐈𝐍𝐙𝐎',
- nomerown: '212717457920',
+ nomerown: '212694169981',
  packname: '☢sticker by☢ ',
  author: '𝐒𝐇𝐈𝐍𝐙𝐎 𝐁𝐎𝐓',
  namebot: '𝐒𝐇𝐈𝐍𝐙𝐎 𝐁𝐎𝐓',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ wm: ''-'_꩜ 𝐒𝐇𝐈𝐍𝐙𝐎 𝐁𝐎𝐓 ꩜_'-'',
  stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ stickauth: '𝐒𝐇𝐈𝐍𝐙𝐎 𝐁𝐎𝐓 '
 }
 
 // Thumbnail 
