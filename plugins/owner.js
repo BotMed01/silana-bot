@@ -13,6 +13,8 @@ let handler = async (m, { conn }) => {
 
 *script bot :* github.com/noureddineouafy
 
+*ALL CREDIT TO NOUREDDINE OUAFY*
+
 `.trim()
   m.reply(caption)
 }
